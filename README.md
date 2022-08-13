@@ -1,7 +1,7 @@
 [![MasterHead](https://onlylinks.pro/wp-content/uploads/2021/01/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13.gif)]
 <h1 align="center">Hi 👋, I'm Alok Kumar Das</h1>
 <h3 align="center">A passionate Fullstack Web Developer</h3>
-<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="right" alt="coading" width="400"/>
+<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="right" alt="coading" width="300"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alok124-droid&label=Profile%20views&color=0e75b6&style=flat" alt="alok124-droid" /> </p>
 
