@@ -1,4 +1,3 @@
-
 [![MasterHead](https://onlylinks.pro/wp-content/uploads/2021/01/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13.gif)]
 <h1 align="center">Hi 👋, I'm Alok Kumar Das</h1>
 <h3 align="center">A passionate Fullstack Web Developer</h3>
@@ -18,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@alok124-droid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@alok124-droid" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alok-kumar-das/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alok-kumar-das/" height="30" width="40" /></a>
+<a href="https://codepen.io/alok124-droid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alok124-droid" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alok-kumar-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alok-kumar-das" height="30" width="40" /></a>
 <a href="https://codesandbox.com/alokkumardasd2016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="alokkumardasd2016" height="30" width="40" /></a>
 </p>
 
@@ -31,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alok124-droid&show_icons=true&locale=en" alt="alok124-droid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alok124-droid&" alt="alok124-droid" /></p>
+
