@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React-Js, Redux**
 
-- 👨‍💻 All of my projects are available at [https://akd-portfolio.netlify.app/](https://akd-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://alokkumarportfolio.netlify.app/](https://alokkumarportfolio.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, Javascript, React-Js, Redux**
 
