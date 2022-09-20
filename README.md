@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamalokkumar&label=Profile%20views&color=0e75b6&style=flat" alt="iamalokkumar" /> </p>
 
-- 🌱 I’m currently learning **React-Js, Redux**
+- 👯 I’m looking to collaborate on **Any project.**
 
 - 👨‍💻 All of my projects are available at [https://alokkumarportfolio.netlify.app/](https://alokkumarportfolio.netlify.app/)
 
