@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **alokkumardasd2016@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SsIDXrciBHssbob3ryZ2X-4R2GvyY9AG/view?usp=sharing](https://drive.google.com/file/d/1SsIDXrciBHssbob3ryZ2X-4R2GvyY9AG/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Gcyo3wnP4O1DIGQHURe79dnPcpFB0KEt/view?usp=drive_link](https://drive.google.com/file/d/1Gcyo3wnP4O1DIGQHURe79dnPcpFB0KEt/view?usp=drive_link)
 
 - ⚡ Fun fact **I am funny😅**
 
