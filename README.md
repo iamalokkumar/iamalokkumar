@@ -8,13 +8,13 @@
 
 - 👯 I’m looking to collaborate on **Any project.**
 
-- 👨‍💻 All of my projects are available at [https://alokkumarportfolio.netlify.app/](https://alokkumarportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://alok-portfolio-0a7d.onrender.com/](https://alok-portfolio-0a7d.onrender.com/)
 
 - 💬 Ask me about **HTML, CSS, Javascript, React-Js, Redux**
 
 - 📫 How to reach me **alokkumardasd2016@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rhvE5aPWjGd2rEQSVRWbeBWfnGvRDw3g/view?usp=drive_link](https://drive.google.com/file/d/1rhvE5aPWjGd2rEQSVRWbeBWfnGvRDw3g/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/12185CCItrTKX4MOeK-yJoMg6f3XenhTV/view?usp=drive_link](https://drive.google.com/file/d/12185CCItrTKX4MOeK-yJoMg6f3XenhTV/view?usp=drive_link)
 
 - ⚡ Fun fact **I am funny😅**
 
