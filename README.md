@@ -1,6 +1,6 @@
 ![logo](https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif)
 <h1 align="center">Hi 👋, I'm Alok Kumar Das</h1>
-<h3 align="center">I'm a Font-End Web Developer trained in HTML, CSS, JavaScript,  React, Redux. Looking forward to using this personal, analytical, and technical skills effectively and gaining hands-on experience.</h3>
+<h3 align="center">I'm a Font-End Web Developer trained in HTML, CSS, JavaScript,  React, Redux, Material UI, Chakra UI, Recharts, Typescript, Express, Mongo DB, Node Js. Looking forward to using this personal, analytical, and technical skills effectively and gaining hands-on experience.</h3>
 
 <img align="right" alt="coadind" width="400" src="https://media2.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e477yx0ousqko48kjqv14i5p35ubx91uq2m4wff2w7j&rid=giphy.gif&ct=g">
 
